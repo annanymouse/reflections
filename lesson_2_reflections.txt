@@ -1,0 +1,4 @@
+Q1. What happens when you initialize a repository? Why do you need to do it?
+
+A1. When you initialize a repository, you are indicating that you want to use version control on it (in this case git).  You need to do this if you want to have a history of the changes to your file.
+
