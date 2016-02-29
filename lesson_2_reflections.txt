@@ -20,4 +20,8 @@ A5. The diagrams provide a easy-to-understand visual of what is happening with t
 
 Q6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-A. The result of merging two branches together is to integrate the master with whatever changes were made on a branch or branches.  We represent this in the diagram so that the developer can tell at what point a branch was created, what changes happened to the branch and master before they were merged again, and when they merged again and what happened after that.
+A6. The result of merging two branches together is to integrate the master with whatever changes were made on a branch or branches.  We represent this in the diagram so that the developer can tell at what point a branch was created, what changes happened to the branch and master before they were merged again, and when they merged again and what happened after that.
+
+Q7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A7. Pro of auto-merge is laziness, the con is loss of control.  Pro of manual merge is control, the con is more work for developer.
