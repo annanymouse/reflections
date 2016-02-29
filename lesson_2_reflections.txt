@@ -2,3 +2,14 @@ Q1. What happens when you initialize a repository? Why do you need to do it?
 
 A1. When you initialize a repository, you are indicating that you want to use version control on it (in this case git).  You need to do this if you want to have a history of the changes to your file.
 
+Q2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A2. Staging area is like a triage area where we add the updates files we plan on committing.  The working directory is the current repository we are working on, and the repository is the collection of app snapshots for our program.
+
+Q3. How can you use the staging area to make sure you have one commit per logical change?
+
+I can use the git add command to add only the files I want to commit, with an appropriate commit message.  Then I can add the other files I have changed, in separate commit.  This could help me keep better track of the changes I am introducing to my codebase.
+
+Q4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A4. Some situations when branches would be helpful in keeping the codebase organized include adding foreign language capabilities, adding a new feature, making changes to the database (or database type), refactoring, and debugging.
