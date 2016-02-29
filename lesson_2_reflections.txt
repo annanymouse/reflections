@@ -17,3 +17,7 @@ A4. Some situations when branches would be helpful in keeping the codebase organ
 Q5. How do the diagrams help you visualize the branch structure?
 
 A5. The diagrams provide a easy-to-understand visual of what is happening with the git repository - what branches exist, what commits have been made, if any merges have happened, etc.
+
+Q6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A. The result of merging two branches together is to integrate the master with whatever changes were made on a branch or branches.  We represent this in the diagram so that the developer can tell at what point a branch was created, what changes happened to the branch and master before they were merged again, and when they merged again and what happened after that.
