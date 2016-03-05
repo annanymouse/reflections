@@ -1,3 +1,7 @@
 Q1. When would you want to use a remote repository rather than keeping all your work local?
 
 A1. If there is someone else on the team that is working on the code, obviously it would be easier for them to push to a cloud-based service like GitHub, rather than to someone's local machine.
+
+Q2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+A2. I think it is better to do this manually, as I can check on GitHub and decide if it is time to pull or not, based on the commit comments on GitHub.  Maybe I want to see if any updates on GitHub will conflict with my local repo's code.
