@@ -1,0 +1,3 @@
+Q1. When would you want to use a remote repository rather than keeping all your work local?
+
+A1. If there is someone else on the team that is working on the code, obviously it would be easier for them to push to a cloud-based service like GitHub, rather than to someone's local machine.
