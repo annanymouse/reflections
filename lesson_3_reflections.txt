@@ -17,3 +17,7 @@ A4. The benefit is that we know what is going on with the remote, and could comp
 Q5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 A5. I guess without Git or GitHub we would have to save to a common place on a server or use email.  I don't think anything would be easier, I think it would be harder to track changes and to merge them.
+
+Q6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A6. You would want to make changes in a separate branch rather than master when introducing new features or working in a team.  Working in branch has the benefit of keeping things separate and keeping master clean.  Working directly in master makes things less complicated, and might work for a solo developer on a small project.
